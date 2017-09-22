@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conditional-statements", "conditional-statements\conditional-statements.csproj", "{8AEE1D16-7E23-4C84-9BFB-9DD66A2EF6E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task-1", "conditional-statements\task-1.csproj", "{8AEE1D16-7E23-4C84-9BFB-9DD66A2EF6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-2", "conditional-statements\task-2\task-2.csproj", "{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8AEE1D16-7E23-4C84-9BFB-9DD66A2EF6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AEE1D16-7E23-4C84-9BFB-9DD66A2EF6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AEE1D16-7E23-4C84-9BFB-9DD66A2EF6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
