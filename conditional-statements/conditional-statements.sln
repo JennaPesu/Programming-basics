@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "task-1", "conditional-state
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-2", "conditional-statements\task-2\task-2.csproj", "{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-3", "task-3\task-3.csproj", "{9CF2FC40-4E3B-4C31-BA2E-ACBC75A1562A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-4", "ConsoleApp1\task-4.csproj", "{16707B0B-48A8-43A9-A35E-2C53D1678BB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{343F9DEF-F0EE-424F-A5CA-FC7E0EB41EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF2FC40-4E3B-4C31-BA2E-ACBC75A1562A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF2FC40-4E3B-4C31-BA2E-ACBC75A1562A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF2FC40-4E3B-4C31-BA2E-ACBC75A1562A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF2FC40-4E3B-4C31-BA2E-ACBC75A1562A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16707B0B-48A8-43A9-A35E-2C53D1678BB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16707B0B-48A8-43A9-A35E-2C53D1678BB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16707B0B-48A8-43A9-A35E-2C53D1678BB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16707B0B-48A8-43A9-A35E-2C53D1678BB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
