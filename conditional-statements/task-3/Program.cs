@@ -41,8 +41,8 @@ namespace task_3
                     else if (evaluetednumber % 2 == 0)
                     {
                         Console.WriteLine($"Syötit luvun {evaluetednumber}, se on parillinen");
-                    } 
-                   if (evaluetednumber % 2 =
+                    }
+                    if (evaluetednumber % 2 =);
                     {
                         Console.WriteLine($"Syötit luvun {evaluetednumber}, se on pariton");
                     }
