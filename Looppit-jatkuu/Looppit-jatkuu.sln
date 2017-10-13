@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Looppit-jatkuu", "Looppit-jatkuu.csproj", "{467A6353-AC88-46C6-AE16-D38671DFB91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467A6353-AC88-46C6-AE16-D38671DFB91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467A6353-AC88-46C6-AE16-D38671DFB91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467A6353-AC88-46C6-AE16-D38671DFB91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467A6353-AC88-46C6-AE16-D38671DFB91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A12B97F2-5DF2-4093-8579-591815B89164}
+	EndGlobalSection
+EndGlobal
