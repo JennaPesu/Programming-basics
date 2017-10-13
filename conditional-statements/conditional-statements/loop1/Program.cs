@@ -16,19 +16,18 @@ namespace LoopTask
             {
                 i = i + 1;
                 f = f * i;
-                //Console.WriteLine($"{i}!={f}"); // 5!=120
+                Console.WriteLine($"{i}!={f}"); // 5!=120
             } while (i < number);
 
-            Console.WriteLine($"Syötit {number}\n Vastaus: {f}"); // 5!=120
             Console.ReadKey();  
 
-            for (int j=1; 1 < number; j++)
-            {
-                f = f * j;
-                Console.WriteLine($" {i}! = {f}"); //5! = 120 
-            }
-            Console.WriteLine($"Syötit: {number}\n Vastaus: {f}");
-            Console.ReadKey(); 
+            //for (int j=1; 1 < number; j++)
+            //{
+            //    f = f * j;
+            //    Console.WriteLine($" {i}! = {f}"); //5! = 120 
+            //}
+            //Console.WriteLine($"Syötit: {number}\n Vastaus: {f}");
+            //Console.ReadKey(); 
 
 
             //do 
